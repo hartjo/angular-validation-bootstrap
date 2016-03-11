@@ -1,7 +1,7 @@
 # angular-validation-bootstrap
 Angular Validation for specific input tag in Bootstrap
 
-#Install userng bower:
+#Install using bower:
 
 bower install angular-validation-bootstrap --save
 
