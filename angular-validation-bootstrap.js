@@ -30,7 +30,6 @@
             scope[valid[0].ngvbIsfor] = '';
             scope[msgshow[0].ngvbIsmsg] = false;
           }
-          console.log(attr.ngvbIsmsg);
           
         });
       }
